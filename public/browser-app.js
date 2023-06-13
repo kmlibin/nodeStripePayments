@@ -6,7 +6,7 @@ const purchase = [
   const shipping_fee = 1099;
   
   var stripe = Stripe(
-    'pk_test_51I87djFp5pnuKUXgBVIHiR36vVAWyfuyb7ckrhgyDNA1kM0GWHas9ZGUAgwJSFNUxrbyE6NwlMNmls1iGSfzHDdE00DQB3y6AH'
+    'pk_test_51NIalAEqdrf3InPaPKUfLavmhs6vo6w8E4522e36aiqIcIRSVesSBvFcqMnjZoNY7PjNFFDVG2UpYP6DtlsiXSIE004NrcPpF8'
   );
   
   // The items the customer wants to buy
